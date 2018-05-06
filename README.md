@@ -5,7 +5,7 @@ This is codes and slides for 2017 Travelers Insurance Case Competition my team m
 I took charge of performing data analysis, and the team mate interpreted the results in actuarial point of view.
 There were 2 submissions, and first submission from Code_Logistic.r took 3rd place in AUC scores of about 40 teams participated.
 
-Contents
+Contents;
 2017 Travelers Case Competition Instruction.pdf - Competition Instruction
 2017 Travelers Case Competition.pdf - Slides for presentation
 Code_Logistic.r - R code for classification using logistic regression
