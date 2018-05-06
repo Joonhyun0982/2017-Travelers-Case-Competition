@@ -5,14 +5,20 @@ This is codes and slides for 2017 Travelers Insurance Case Competition my team m
 I took charge of performing data analysis, and the team mate interpreted the results in actuarial point of view.
 There were 2 submissions, and first submission from Code_Logistic.r took 3rd place in AUC scores of about 40 teams participated.
 
-Contents;
+Contents
+
 2017 Travelers Case Competition Instruction.pdf - Competition Instruction
+
 2017 Travelers Case Competition.pdf - Slides for presentation
+
 Code_Logistic.r - R code for classification using logistic regression
+
 Code_Logistic_interaction.r - R code for classification using logistic regression with 2x2 interaction terms
-Code_OtherML.r - R code for classification using K-nearest neighbor, classification/regression tree, Random Forest, Generalized Boosted Model, Neural Network,
-                 Logistic Regression, and camparing tentative results of those methods
+
+Code_OtherML.r - R code for classification using K-nearest neighbor, classification/regression tree, Random Forest, Generalized Boosted Model, Neural Network, Logistic Regression, and camparing tentative results of those methods
+
 Test.cvs - Test Dataset
+
 Train.cvs - Train Dataset
 
 Please note that there is a couple of different things in slides since I added Neural Network method and changed the method for cross-validation after the competition has ended.
