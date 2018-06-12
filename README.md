@@ -1,7 +1,7 @@
 # 2017-Travelers-Case-Competition
 2017 Travelers Insurance Case Competition
 
-This is codes and slides for 2017 Travelers Insurance Case Competition my teammate and I were participated in.
+This is codes and slides for 2017 Travelers Insurance Case Competition my teammate and I participated in.
 There were 2 submissions, and first submission from Code_Logistic.r took 3rd place in AUC scores among about 40 teams participated.
 
 Contents
